@@ -1,0 +1,9 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: Blackjack_development
+  pool: 5
+  host: localhost
+  username: benjaminclayman
+  password:
